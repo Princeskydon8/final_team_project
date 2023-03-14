@@ -4,6 +4,7 @@
     background-color: orange;
     padding: 20px;
     border-radius: 5px;
+    box-shadow: 0 20px 20px 10px #aaa;
   }
   
   .calculator-screen {
@@ -37,6 +38,9 @@
   }
   
   .calculator-keys button:hover {
+    opacity: 80%;
+    transition: 1s;
+    box-shadow: 0 0 5px 5px #555;
     background-color:lightgreen ;
   }
   
@@ -46,17 +50,17 @@
   
   .operator {
     background-color: #f5901e;
-    color: brown;
+    color: black;
   }
   
   .all-clear {
     background-color: #ac3939;
-    color: brown;
+    color: black;
   }
   
   .equal-sign {
     background-color: #4cae4c;
-    color: blue;
+    color: black;
   }
   
   .decimal {
