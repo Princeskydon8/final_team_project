@@ -55,13 +55,6 @@
     was used for team communication and meetings between team members
 </p><hr>
 
-<h3>Google Fonts:</h3>
-<p>
-    <img src="./assets/images/icons/googlefonts.svg" width="50px" height="50px"><br>
-    <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
-    was used to meet the client's request on using <a href="https://fonts.google.com/specimen/Roboto" target="_blank">Roboto</a> for the text
-</p><hr>
-
 <h3>GitPod:</h3>
 <p>
     <img src="./assets/images/icons/gitpod.svg" width="50px" height="50px"><br>
