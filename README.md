@@ -1,5 +1,6 @@
 <h1>Brainnest Fourth Lecture - HTML, CSS & JavaScript</h1>
 <img src="#">
+Follow this link to view the hosted site https://princeskydon8.github.io/final_team_project/
 <h1>Deployment</h1>
 
 <ul>
