@@ -94,7 +94,7 @@ body {
   width: 30px;
   height: 30px;
   background: #4fc3dc;
-  margin: 0 4px;
+  margin: auto;
   border-radius: 50%;
   box-shadow: 0 0 0 10px #4fc3dc44,
   0 0 50px #4fc3dc,
@@ -116,5 +116,24 @@ body {
   100% 
   {
     transform: translateY(-80vh) scale(1);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .bubbles span {
+    width: 25px;
+    height: 25px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .bubbles span {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .bubbles span {
+    width: 15px;
+    height: 15px;
   }
 }
