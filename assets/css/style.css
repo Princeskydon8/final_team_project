@@ -36,6 +36,7 @@ header {
   font-size: 2rem;
   border: none;
   background-color: #f2f2f2;
+  color: black;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.2s ease;
@@ -47,7 +48,7 @@ header {
   box-shadow: 0 0 5px 5px #303030de;
   background-color:lightgreen ;
 }
-  
+/*Buttons*/
 .calculator-keys button:active {
   background-color: limegreen;
 }
@@ -73,7 +74,6 @@ header {
 }
   
 /*Animated background*/
-
 body {
   overflow-y: hidden;
   height: 100vh;
@@ -118,7 +118,7 @@ body {
     transform: translateY(-80vh) scale(1);
   }
 }
-
+/*Responsive Bubbles*/
 @media screen and (max-width: 1024px) {
   .bubbles span {
     width: 25px;
