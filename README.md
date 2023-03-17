@@ -24,7 +24,7 @@ Follow this link to view the hosted site https://princeskydon8.github.io/final_t
         Click on the link to go to the live deployed page.
     </li>
     <li><h2>
-        <a href="#">
+        <a href="https://princeskydon8.github.io/final_team_project/">
         Preview</a>
 </h2></li>
 </ul>
