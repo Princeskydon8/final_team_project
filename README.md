@@ -1,5 +1,5 @@
 <h1>Brainnest Fourth Lecture - HTML, CSS & JavaScript</h1>
-<img src="#">
+<img src="./assets/images/am-i-responsive.png">
 <h1>Deployment</h1>
 
 <ul>
@@ -148,6 +148,6 @@
 </p>
 
 <h3>Desktop:</h3>
-<img src="#">
+<img src="./assets/images/desktop.png">
 <h3>Moblie:</h3>
-<img src="#">
+<img src="./assets/images/moblie.png">
