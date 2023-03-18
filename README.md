@@ -1,5 +1,21 @@
 <h1>Brainnest Fourth Lecture - HTML, CSS & JavaScript</h1>
 <img src="./assets/images/am-i-responsive.png">
+
+<h1>User Experience</h1>
+<ul>
+    <h2>First time users</h2>
+<li>First time users should experience an immediate explanation of what the 
+    website is about and what it stands for judging by the calculator each button set to react as
+    the user hovers over them allowing the user to track their mouse movement easier. With an animated background supporting most devices.
+    New users should also find the website easy to use and browse because there is only one page with a simple calulator on.
+</li>
+<h2>Regular users</h2>
+    <li>
+        Regular users already know what the website stands and the content for and will tend 
+        to return to the website being either comfortable using the design and its appearance
+    </li>
+</ul>
+    
 <h1>Deployment</h1>
 
 <ul>
